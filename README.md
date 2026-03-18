@@ -1,7 +1,3 @@
-Here is a clean, ready-to-use README for your Power BI project. You can copy and paste it directly into GitHub.
-
----
-
 # Power BI Project
 
 ## Overview
